@@ -222,3 +222,10 @@ body {
     width: 24px;
   }
 }
+
+// mobile responsiveness
+@media (max-width: 600px) {
+  body {
+    width: 100%;
+  }
+}

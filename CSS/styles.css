@@ -297,4 +297,10 @@ body {
 .social-media-section img {
   height: 24px;
   width: 24px;
+}
+
+@media (max-width: 600px) {
+  body {
+    width: 100%;
+  }
 }/*# sourceMappingURL=styles.css.map */
